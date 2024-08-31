@@ -1,5 +1,8 @@
 # Blank Slate ZMK Firmware
 
+La pagina para configurar el keymap es esta https://nickcoutsos.github.io/keymap-editor/
+
+
 This repo contains the firmware for the Blank Slate PCB.
 
 For full build guide for the Blank Slate, see https://docs.lpgala.xyz/docs/blank-slate-build-guide/overview/
